@@ -11,6 +11,7 @@
             Microsoft Windows Assessment and Deployment Kit, Komponente Bereitstellungstools auf dem Hyper-V-Host installieren (https://docs.microsoft.com/de-de/windows-hardware/get-started/adk-install)
             PowerShell-Module PSSQLite und SQLServer vorhanden
             Programme und Konfigurationsdateien der Datei Tools.zip (Empfehlung: 7-Zip verwenden) extrahiert
+			Optional: Microsoft SQL Server Management Studio 18.9.1
 
         Einrichtung:
             Verzeichnisse festlegen - Empfehlung: die Verzeichnisstruktur beibehalten!
